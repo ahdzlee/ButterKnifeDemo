@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="input_item">Add Item</string>
+    <string name="add">Add</string>
+    <string name="empty_item_to_input">Please input an item to add.</string>
 </resources>
